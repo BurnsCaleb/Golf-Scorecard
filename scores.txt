@@ -1,0 +1,82 @@
+Correctionville G.C.
+Correctionville Iowa
+9 Holes
+Par 34
+Your score: 34
+
+Hole 1:
+Par 4
+Distance: 250yds
+Tee Shot Direction: center
+Number of Putts: 2
+Number of Strokes: 4
+Notes: 
+------------------------
+Hole 2:
+Par 4
+Distance: 284yds
+Tee Shot Direction: left
+Number of Putts: 2
+Number of Strokes: 4
+Notes: 
+------------------------
+Hole 3:
+Par 4
+Distance: 271yds
+Tee Shot Direction: right
+Number of Putts: 2
+Number of Strokes: 4
+Notes: 
+------------------------
+Hole 4:
+Par 3
+Distance: 107yds
+Tee Shot Direction: center
+Number of Putts: 2
+Number of Strokes: 3
+Notes: 
+------------------------
+Hole 5:
+Par 4
+Distance: 271yds
+Tee Shot Direction: left
+Number of Putts: 1
+Number of Strokes: 3
+Notes: 
+------------------------
+Hole 6:
+Par 4
+Distance: 349yds
+Tee Shot Direction: center
+Number of Putts: 2
+Number of Strokes: 4
+Notes: 
+------------------------
+Hole 7:
+Par 4
+Distance: 352yds
+Tee Shot Direction: left
+Number of Putts: 2
+Number of Strokes: 5
+Notes: 
+------------------------
+Hole 8:
+Par 4
+Distance: 361yds
+Tee Shot Direction: left
+Number of Putts: 1
+Number of Strokes: 4
+Notes: 
+------------------------
+Hole 9:
+Par 3
+Distance: 124yds
+Tee Shot Direction: center
+Number of Putts: 2
+Number of Strokes: 3
+Notes: 
+------------------------
+
+
+
+
