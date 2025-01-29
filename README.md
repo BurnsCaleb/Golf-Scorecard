@@ -8,3 +8,10 @@ Both 9 and 18 hole courses are available.
 For each hole, you can track your tee shot direction, number of putts, number of strokes, and any additional notes you wish to add.
 
 You can also view all the information from your previous rounds.
+
+<img src="images/ScorecardMainMenu.png" width=400><img src="images/ScorecardSelectCourse.png" width=400>
+
+<img src="images/ScorecardHole1.png" width=400><img src="images/ScorecardHole2.png" width=400>
+
+<img src="images/ScorecardAddCourse.png" width=400><img src="images/ScorecardAddHoles.png" width=400>
+<img src="images/ScorecardViewRounds.png" width=400>
